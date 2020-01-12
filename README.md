@@ -1,5 +1,5 @@
 # randomTriangleWall
-Generate Tiles for a background-wall with a rough looking random surface.
+Generate tiles for a background-wall with a rough looking random surface.
 
 This is an openJSCAD script.
 
